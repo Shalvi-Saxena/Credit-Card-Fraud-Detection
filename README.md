@@ -21,7 +21,7 @@ The dataset encompasses a mix of 22 features from both legitimate and fraudulent
 - **Merch_long**: Merchant's longitude
 - **is_fraud**: Indicator of fraud (0 for non-fraudulent, 1 for fraudulent)
 
-## Objectives
+## Research Questions
 
 - **RQ 1**: Which features are most influential in predicting fraudulent transactions?
 - **RQ 2**: How do different machine learning models compare in terms of efficiency and effectiveness in detecting fraudulent transactions?
