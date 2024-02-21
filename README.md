@@ -31,7 +31,7 @@ The dataset encompasses a mix of 22 features from both legitimate and fraudulent
 
 To address the challenges posed by the dataset, including class imbalance, we employ undersampling and split the data into training and testing sets in an 80-20 ratio. Our analysis pipeline includes:
 
-1. **Feature Selection**: Utilize Pearson or Kendall correlation in conjunction with decision trees for identifying relevant features.
+1. **Feature Selection**: Utilize non-linear correlation for identifying relevant features.
 2. **Model Training**: Train Logistic Regression, Random Forest Classifier, and XGBoost models on the prepared dataset.
 3. **Hyperparameter Tuning**: Conduct an ablation study to fine-tune the models for optimal performance.
 4. **Evaluation**: Assess model performance using precision, recall, and F1 score as primary KPIs, with a focus on accurately detecting fraudulent transactions.
