@@ -23,9 +23,9 @@ The dataset encompasses a mix of 22 features from both legitimate and fraudulent
 
 ## Objectives
 
-- **RQ 1**: Identify which features are most influential in predicting fraudulent transactions.
-- **RQ 2**: Compare the efficiency of different machine learning models, including Random Forest Classifier, Decision Trees, and XGBoost, in detecting fraudulent transactions.
-- **RQ 3**: Evaluate the effect of hyperparameter tuning through an ablative study on the selected classifiers.
+- **RQ 1**: Which features are most influential in predicting fraudulent transactions?
+- **RQ 2**: How do different machine learning models compare in terms of efficiency and effectiveness in detecting fraudulent transactions?
+- **RQ 3**: What is the impact of hyperparameter tuning on the performance of the selected classifiers?
 
 ## Methodology
 
