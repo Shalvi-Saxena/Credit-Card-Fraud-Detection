@@ -22,7 +22,8 @@ The dataset encompasses a mix of 22 features from both legitimate and fraudulent
 - **is_fraud**: Indicator of fraud (0 for non-fraudulent, 1 for fraudulent)
 
 ## Research Questions
-
+Primary Research Question: Can fraudulent credit card transactions be predicted?
+Secondary Research Questions:
 - **RQ 1**: Which features are most influential in predicting fraudulent transactions?
 - **RQ 2**: How do different machine learning models compare in terms of efficiency and effectiveness in detecting fraudulent transactions?
 - **RQ 3**: What is the impact of hyperparameter tuning on the performance of the selected classifiers?
