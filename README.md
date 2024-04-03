@@ -6,7 +6,7 @@ This project aims to tackle the pressing issue of credit card fraud by employing
 
 ## Dataset
 
-The dataset is on ([Kaggle])(https://www.kaggle.com/datasets/kartik2112/fraud-detection/data?select=fraudTrain.csv)). It encompasses a mix of 22 features from both legitimate and fraudulent credit card transactions, carefully generated to reflect real-world transaction dynamics. For the purpose of fraud detection, we have narrowed down to 12 significant features after removing redundancies:
+The dataset is on [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data?select=fraudTrain.csv). It encompasses a mix of 22 features from both legitimate and fraudulent credit card transactions, carefully generated to reflect real-world transaction dynamics. For the purpose of fraud detection, we have narrowed down to 12 significant features after removing redundancies:
 
 - **Trans_date_trans_time**: Date and time of transaction
 - **Category**: Purchase category
